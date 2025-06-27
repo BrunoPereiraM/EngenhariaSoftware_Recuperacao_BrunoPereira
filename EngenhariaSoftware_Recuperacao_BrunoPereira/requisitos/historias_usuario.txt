@@ -1,0 +1,11 @@
+Histórias de Usuário - Grão&Cia
+
+1. Como atendente, quero registrar novos pedidos de forma rápida e organizada, para que os produtos possam ser separados com agilidade e precisão.
+
+2. Como gerente, quero monitorar em tempo real o nível de estoque, para que eu possa evitar a falta de produtos e garantir a reposição adequada.
+
+3. Como cliente, quero agendar a retirada do meu pedido com antecedência, para que eu possa evitar filas e otimizar meu tempo.
+
+4. Como funcionário, quero atualizar automaticamente o estoque após cada venda, para que os dados estejam sempre atualizados e reflitam a realidade do armazém.
+
+5. Como gerente, quero gerar relatórios semanais de vendas detalhados, para que eu possa tomar decisões mais estratégicas sobre compras e estoque.
